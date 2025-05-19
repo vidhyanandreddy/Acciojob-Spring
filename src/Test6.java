@@ -2,7 +2,6 @@ import java.util.Scanner;
 public class Test6 {
     public static void main(String[] args) {
         //Statements......
-
         //if and else loop
 //        int a=10;
 //        if (a==5){
@@ -81,7 +80,6 @@ public class Test6 {
 //            default:
 //                System.out.println("you are entered wrong number....");
 //        }
-
         //endsWith....
         Scanner sc=new Scanner(System.in);
         System.out.println("Enter your Website name:");
