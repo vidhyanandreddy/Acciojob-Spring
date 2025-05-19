@@ -9,6 +9,8 @@ public class test1 {
         int mul=a*b;
         int div=b/a;
         int n=10;
+
+
         System.out.println("Addition of two numbers:"+sum);
         System.out.println("Addition of two numbers:"+diff);
         System.out.println("Addition of two numbers:"+mul);
